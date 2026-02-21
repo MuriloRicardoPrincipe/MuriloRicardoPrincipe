@@ -34,4 +34,5 @@ Desenvolvedor Backend focado em arquitetura escalável, microsserviços e mensag
 ---
 
 📫 Contato:  
-LinkedIn: (seu link aqui)
+LinkedIn: https://www.linkedin.com/in/murilo-ricardo-principe-553780192/
+Telefone e Whatsapp: (44) 997485416
