@@ -29,10 +29,10 @@ Desenvolvedor Backend focado em arquitetura escalável, microsserviços e mensag
 
 - Microsserviços com Kubernetes
 - Estratégias de idempotência
-- Padrões avançados de mensageria
+ Padrões avançados de mensageria
 
 ---
 
 📫 Contato:  
-LinkedIn: https://www.linkedin.com/in/murilo-ricardo-principe-553780192/
-Telefone e Whatsapp: (44) 997485416
+- LinkedIn: https://www.linkedin.com/in/murilo-ricardo-principe-553780192/
+- Telefone e Whatsapp: (44) 997485416
